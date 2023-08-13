@@ -12,7 +12,8 @@ This is a simple online calculator app created using HTML, CSS, and JavaScript. 
 
 ## Demo
 
-You can try out the calculator app by clicking [here](https://example.com/calculator).
+Unfortunately, there's no live demo available for this calculator app at the moment. However, you can still run the app locally on your machine.
+
 
 ## Getting Started
 
@@ -23,10 +24,6 @@ To use the calculator app, follow these steps:
 3. Click the "Click Here" button to open the calculator.
 4. Enter numbers and use the provided buttons to perform calculations.
 5. To reset the input, click the "c" button.
-
-## Screenshots
-
-![Screenshot](screenshot.png)
 
 ## Usage
 
